@@ -1,0 +1,7 @@
+From what I've found so far, Sonic Pi doesn't have an IRC, but it does have a browser-based chat service hosted by some separate company (is it IRC based?).  It doesn't seem to be very active, however, with the most recent message sent last month.
+
+I'm not sure if there is a "mail list" service or not.  I need to look around further to confirm this.
+
+There is an active forum: https://in-thread.sonic-pi.net/.  It seems to be mainly populated by users, but there is a subforum about development.  That subforum isn't too active, the last post was made 16 days ago, and it requires a user to be a Patreon supporter in order to post, but you can still view the individual threads.  Recent threads are about SynthDefs and their use in SuperCollider.  There is a post I've found that may help me with installing a (newer) version of Sonic Pi on my laptop.
+
+Within the Github Issues tracker I found a recent post related to undiagnosed memory issues.  A user is having problems running a specific song script on their Raspberri Pi because it slowly takes up all memory.  It is replicable by other users.  It has been supposed that it is a Ruby issue, but experimentation seems to point away from that.
